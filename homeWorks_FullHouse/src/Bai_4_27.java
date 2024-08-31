@@ -18,7 +18,6 @@ public class Bai_4_27 {
         h = (temp) % 24; // ChatGPT shorted it for me
 
         System.out.printf("%d %d", h, m);
-
     }
 }
 
