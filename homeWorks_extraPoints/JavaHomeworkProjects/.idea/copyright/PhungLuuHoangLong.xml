@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="/**&#10; *  © &amp;#36;originalComment.match(&quot;Copyright \\(c\\) (\\d+)&quot;, 1, &quot;-&quot;, &quot;&amp;#36;today.year&quot;)&amp;#36;today.year. PhungLuuHoangLong. All rights reserved.&#10; *&#10; *  This file is part of a proprietary software project developed by PhungLuuHoangLong,&#10; *  a student of Software Engineering at FPT University, student ID: SE190377.&#10; *&#10; *  Unauthorized copying or distribution of this file, via any medium, is strictly prohibited &#10; *  unless prior written permission is obtained from the owner.&#10; *&#10; *  Created by PhungLuuHoangLong on &amp;#36;today.date.&#10; */&#10;" />
+    <option name="myName" value="PhungLuuHoangLong" />
+  </copyright>
+</component>
