@@ -15,9 +15,7 @@ public class Bai_6_5 {
         // find the min number string
         String MIN = findMinNumStr(arr);
 
-
-
-        System.out.println(arr);
+        System.out.print(MIN);
     }
 
     public static String findMinNumStr(ArrayList<String> arr) {
